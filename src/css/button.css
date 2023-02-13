@@ -1,14 +1,15 @@
-No Code 😀
-
+Simple button 😅
 .rbtn{
  border-style: none;
 }
-.classic{
-  background-color: black;
-  font-size: 14px;
-  color: white;
-  padding: 10px;
+.rbtn-c{
+  border-style:none;
+  background-color:black;
+  font-size:14px;
+  color:white;
+  padding:10px;
 }
-.classic a{
+.rbtn-c a{
   text-decoration-color: none;
+  color:white;
 }
